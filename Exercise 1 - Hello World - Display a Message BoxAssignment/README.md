@@ -51,6 +51,7 @@ Click the Run button (green play icon) at the top of UiPath Studio.
 ## PROGRAM WORKFLOW:
 The workflow uses a Message Box activity to display the required message.
 
+```
        START
           |
           v
@@ -61,6 +62,7 @@ The workflow uses a Message Box activity to display the required message.
           |
           v
         END
+```
 
 ## UiPath Workflow.
 <img width="443" height="257" alt="image" src="https://github.com/user-attachments/assets/b2e0532e-b700-4260-99fb-45a35dd68525" />
