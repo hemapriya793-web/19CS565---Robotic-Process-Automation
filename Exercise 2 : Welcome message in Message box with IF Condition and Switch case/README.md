@@ -14,7 +14,7 @@ Software Used: UiPath Studio
 
 ## ALGORITHM
 
-Part A: Using IF Condition
+## Part A: Using IF Condition
 
 Step 1:
 Launch UiPath Studio from the desktop or Start menu.
