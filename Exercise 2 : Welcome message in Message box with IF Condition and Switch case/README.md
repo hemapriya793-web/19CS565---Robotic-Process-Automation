@@ -107,6 +107,7 @@ The workflow uses an Input Dialog activity to get the user's name. The IF Condit
 ## UiPath Workflow.
 
 <img width="546" height="537" alt="image" src="https://github.com/user-attachments/assets/5d02d574-6132-4f43-8025-03a1ba301359" />
+
 <img width="535" height="395" alt="image" src="https://github.com/user-attachments/assets/c712aa7e-bf9e-4b14-a596-ab19c047e855" />
 
 
@@ -115,6 +116,7 @@ The workflow uses an Input Dialog activity to get the user's name. The IF Condit
 ## Execution Output:
 
 <img width="355" height="197" alt="image" src="https://github.com/user-attachments/assets/ecdc63c0-7896-4d00-a097-7139b447d6ca" />
+
 <img width="217" height="162" alt="image" src="https://github.com/user-attachments/assets/4c502be6-fbe8-4108-88a4-0c8da6b6992e" />
 
 
@@ -225,6 +227,7 @@ The workflow uses Input Dialog to get the user's name and Switch Case to display
 ## UiPath Workflow:
 
 <img width="693" height="537" alt="image" src="https://github.com/user-attachments/assets/ba57d6f2-7c86-4a96-be49-2f53292030b4" />
+
 <img width="602" height="593" alt="image" src="https://github.com/user-attachments/assets/8fecd60a-2fce-4f08-b735-c9d1f31a6918" />
 
 
@@ -233,6 +236,7 @@ The workflow uses Input Dialog to get the user's name and Switch Case to display
 ## Execution Output:
 
 <img width="345" height="188" alt="image" src="https://github.com/user-attachments/assets/d2d0f05e-dd10-4824-865e-cff7cd83d75c" />
+
 <img width="217" height="162" alt="image" src="https://github.com/user-attachments/assets/30678d16-4ec2-4fb7-9abe-51fd9a5adeb0" />
 
 
