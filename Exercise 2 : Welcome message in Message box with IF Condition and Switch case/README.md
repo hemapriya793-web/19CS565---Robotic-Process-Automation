@@ -1,8 +1,8 @@
 ## Exercise 2 : Welcome message in Message box with IF Condition and Switch case
 
-## NAME: MENAKA M S
+## NAME: hema priya.s
 
-## REGISTER NUMBER: 212225040232
+## REGISTER NUMBER: 212225240051
 
 ## AIM
 
