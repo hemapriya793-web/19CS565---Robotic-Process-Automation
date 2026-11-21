@@ -242,5 +242,5 @@ The workflow uses Input Dialog to get the user's name and Switch Case to display
 
 ## RESULT
 
-Thus, the Welcome Message workflow was successfully created and executed in UiPath Studio using IF Condition and Switch Case activities. The appropriate welcome messages were displayed successfully based on the user's input.
+Thus, the Welcome Message workflow was successfully created and executed in UiPath Studio using IF Condition and Switch Case activities. The appropriate welcome messages were displayed successfully based on the user's input..
 
